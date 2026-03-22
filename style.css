@@ -1,3 +1,8 @@
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px; /* This creates space for your navbar */
+}
+
 /* General Styles */
 * {
     margin: 0;
